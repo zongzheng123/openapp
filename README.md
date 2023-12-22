@@ -5,7 +5,12 @@ npm install -g opapp
 
 ## usage
 ```
-openapp [appname]
+opapp [appname]
+```
+
+## example
+```
+opapp github
 ```
 
 ## config 
