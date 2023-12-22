@@ -1,0 +1,8 @@
+{
+  "defaultPlatform": "browser",
+  "platforms": {
+    "browser": {
+      "github": "https://github.com"
+    }
+  }
+}
