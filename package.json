@@ -1,9 +1,9 @@
 {
-  "name": "openapp",
+  "name": "opapp",
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "./dist/index.js",
   "bin": "./dist/index.js",
@@ -17,7 +17,7 @@
   "homepage": "https://github.com/zongzheng123/openapp#readme",
   "bugs": "https://github.com/zongzheng123/openapp/issues",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo",
     "build": "tsc",
     "dev": "ts-node src/index.ts",
     "prepublish": "npm run build"
