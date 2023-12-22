@@ -1,6 +1,6 @@
 ## install
 ```
-npm install -g openapp
+npm install -g opapp
 ```
 
 ## usage
